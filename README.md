@@ -17,5 +17,5 @@ Sub-questions:
 
 Content of the repository
 
-1) Jester_Dataset: Jester Recommender System build with Surprise using the KNNBasic and SVD algorithm
-2) Netflix_Dataset: Netflix Recommender System build with Surprise using the KNNBasic and SVD algorithm
+1) RecSys_Jester: Jester Recommender System build with Surprise using the KNNBasic and SVD algorithm
+2) RecSys_Netflix: Netflix Recommender System build with Surprise using the KNNBasic and SVD algorithm
