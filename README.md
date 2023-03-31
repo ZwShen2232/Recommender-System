@@ -8,7 +8,7 @@ Sub-questions:
 - Which collaborative algorithm should be implemented to effectivily recommend products to users based on their preferences?
 - How can we personalize the crowdfunding experience for backers?
 - How can the performance of the chosen collaborative algorithms be optimized?
-- What measures can we take to ensure that the collaborative filtering recommender system is fair and transparent? / What techniques can be used to improve the interpretability of recommender systems?
+- What measures can we take to ensure that the collaborative filtering recommender system is fair and transparent? 
 - Which metrics can we utilize to accurately measure the performance of the collaborative filtering recommender system?
 
 
