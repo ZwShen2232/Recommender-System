@@ -1,11 +1,8 @@
 # Recommender-System
-A recommender system design for the course System Development for Marketing in the Master Digital Driven Business program
+This project is done for the course system development for marketing of the Master Digital Driven Business. The goal of this project is to make a recommender system for new movie streaming platforms.
 
-Business question:
-- How can we use collaborative filtering to improve the success rate of a movie streaming platform on a crowdfunding website and increase the satisfaction of backers?
-
-Alternative Business question:
-- How can we design a collaborative filtering based recommender system that effectivily recommends products to users based on their preferences, and how can we evaluate its performane?
+Main Business question:
+- How can we use collaborative filtering to improve the success rate of a new movie streaming platform and increase the satisfaction of backers?
 
 Sub-questions:
 - Which collaborative algorithm should be implemented to effectivily recommend products to users based on their preferences?
